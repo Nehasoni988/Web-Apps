@@ -2,10 +2,10 @@
 
 ## About Author
 
-  #Developer	-->   MLVTEC Team, Bhilwara
-  #Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
-  #Under guidance	-->   Shyam Sunder Boss.
-  #Date Created	-->   Fri, May 18 2018.
+  1.Developer	-->   MLVTEC Team, Bhilwara
+  2.Developed at 	-->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
+  3.Under guidance	-->   Shyam Sunder Boss.
+  4.Date Created	-->   Fri, May 18 2018.
   
 ## Requirements
 
@@ -17,9 +17,9 @@
 
 ## Project Description:-
 
--> This is a small web application built in HTML, CSS, Javascript, Ajax & PHP with complete validations.  
--> It provides you Registration and Login form that can be usually seen at most of the websites for the purpose of sign in or sign up. 
--> All the entries will be stored in PHP Database.
+..* This is a small web application built in HTML, CSS, Javascript, Ajax & PHP with complete validations.  
+ ..* It provides you Registration and Login form that can be usually seen at most of the websites for the purpose of sign in or sign up. 
+..* All the entries will be stored in PHP Database.
 
 ## How to Use:-
 
