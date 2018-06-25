@@ -23,7 +23,7 @@
 
 ## How to Use:-
 
-1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot).
+1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot)
 		..* HOSTNAME:-"localhost"
 		..* USERNAME:-"root"
 	        ..* PASSWORD:-"root"
