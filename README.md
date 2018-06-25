@@ -1,4 +1,5 @@
-# Registartion $ Login Form
+# Registartion & Login Form
+
 
 ## About Author
 
@@ -6,6 +7,7 @@
   2. Developed at     -->   Ready Bytes Software Labs Pvt. Ltd. Bhilwara
   3. Under guidance   -->   Shyam Sunder Boss.
   4. Date Created     -->   Fri, May 18 2018.
+  
   
 ## Requirements
 
@@ -23,11 +25,11 @@
 
 ## How to Use:-
 
-1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot)
-		* HOSTNAME:-"localhost"
-		* USERNAME:-"root"
-	        * PASSWORD:-"root"
-		* DATABASE:-"form_data"
+1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot).  
+		..* HOSTNAME:-"localhost"  
+		* USERNAME:-"root"  
+	        * PASSWORD:-"root"  
+		* DATABASE:-"form_data"  
 
 2. Select the newly created database and create a table in it named "table1".
 3. Download all the files, assets & save them in localhost folder.
