@@ -24,10 +24,10 @@
 ## How to Use:-
 
 1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot)
-		..* HOSTNAME:-"localhost"
-		..* USERNAME:-"root"
-	        ..* PASSWORD:-"root"
-		..* DATABASE:-"form_data"
+		* HOSTNAME:-"localhost"
+		* USERNAME:-"root"
+	        * PASSWORD:-"root"
+		* DATABASE:-"form_data"
 
 2. Select the newly created database and create a table in it named "table1".
 3. Download all the files, assets & save them in localhost folder.
