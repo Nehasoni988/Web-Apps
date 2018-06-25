@@ -26,7 +26,7 @@
 ## How to Use:-
 
 1. Firstly, create a Database named "form_data" in PHP database(as shown in screenshot).  
-		..* HOSTNAME:-"localhost"  
+		* HOSTNAME:-"localhost"  
 		* USERNAME:-"root"  
 	        * PASSWORD:-"root"  
 		* DATABASE:-"form_data"  
