@@ -1,4 +1,4 @@
-# Registartion & Login Form
+# Registration & Login Form
 
 
 ## About Author
@@ -37,6 +37,35 @@
 5. above step will create a new user and store entries in database. 
 6. Then type in URL "localhost/loginform.php" to log in using userId & password.
 7. And you will be logged in if userId and password are correct.
+8. Now application is ready to use.Here is the demo, how application looks like -->
+
+  #### * When user will open the registration form
+    
+    
+  ![Registration form](https://github.com/Nehasoni988/Web-Apps/blob/master/form/RegistrationForm.png)
+  
+  #### * If user clicks on submit button withot filling the form,it will give an error
+  
+  ![Registration error](https://github.com/Nehasoni988/Web-Apps/blob/master/form/RegValidation.png)
+  
+  #### * After successful registration the entry will be stored in database
+  
+  ![entry](https://github.com/Nehasoni988/Web-Apps/blob/master/form/Database.png)
+  
+  #### * After Registration user can login to view the details
+  
+  ![Login form](https://github.com/Nehasoni988/Web-Apps/blob/master/form/LoginForm.png)
+  
+  #### * If user submit the loginform without filling it 
+  ![login error](https://github.com/Nehasoni988/Web-Apps/blob/master/form/LoginValidation.png) 
+  #### * If user login with invalid userId or Invalid Password
+  ![Login error](https://github.com/Nehasoni988/Web-Apps/blob/master/form/InvalidEntry.png)
+  ![login error](https://github.com/Nehasoni988/Web-Apps/blob/master/form/LoginValidation1.png)
+  
+  #### * After successful login, user can see his/her details by clicking on login button
+  ![login](https://github.com/Nehasoni988/Web-Apps/blob/master/form/AfterLogin.png)
+  
+  ### Thank You  :)
 
 			
 
