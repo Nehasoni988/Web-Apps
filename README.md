@@ -11,7 +11,7 @@
 
 1. Basic knowledge of HTML, CSS, JS, JSON, Ajax & PHP.
 2. Install Text editor like Notepad, Sublime Text etc. in your system. 
-3. Install LAMP/WAMP (You can download LAMP link given in below).
+3. Install LAMP/WAMP (You can download LAMP with link given in below).
   [Click Here](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04)
 4. Proper internet connectivity.
 
