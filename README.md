@@ -49,9 +49,9 @@
   
   ![Registration error](https://github.com/Nehasoni988/Web-Apps/blob/master/form/RegValidation.png)
   
-  #### * After successful registration the entry will be stored in database
+  #### * After successful registration the entry will be stored in database's column
   
-  ![entry](https://github.com/Nehasoni988/Web-Apps/blob/master/form/Database.png)
+  ![entry](https://github.com/Nehasoni988/Web-Apps/blob/master/form/database.png)
   
   #### * After Registration user can login to view the details
   
