@@ -1,10 +1,10 @@
 # TODO LIST (WEB-APPLICATION)
 
 ## About Author
-1.Developer	--> MLVTEC Team, Bhilwara
-2.Developed at --> Ready Bytes Software Labs Pvt. Ltd. Bhilwara
-3.Under guidance --> Shyam Sunder Boss.
-4.Date Created --> Fri, May 18 2018.
+1.Developer --> MLVTEC Team, Bhilwara  
+2.Developed at --> Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
+3.Under guidance --> Shyam Sunder Boss.  
+4.Date Created --> Fri, May 18 2018.  
 
 ## Requirements
 
