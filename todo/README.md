@@ -26,8 +26,11 @@
 1. Firstly, create a Database named "todo" in PHP database(as shown in screenshot).  
 		* HOSTNAME:-"localhost"  
 		* USERNAME:-"root"  
-	  * PASSWORD:-"root"  
-		* DATABASE:-"todo"  
+	        * PASSWORD:-"root"  
+		* DATABASE:-"todo"   
+		
+  ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/todo/database.png)		
+		
 
 2. Select the newly created database and create a table in it named "todoTable".
 3. Download all the files, assets & save them in localhost folder.
