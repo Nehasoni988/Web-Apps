@@ -71,7 +71,7 @@
 #### *user can edit a task by clicking on edit button of any task.
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/todo/EditHover.png)
-![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/todo/Editing.png)
+![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/todo/Editing1.png)
 ##### after edit click on show button to check the updates
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/todo/afterEdit.png)
