@@ -5,7 +5,7 @@
 1.Developer --> MLVTEC Team, Bhilwara  
 2.Developed at --> Ready Bytes Software Labs Pvt. Ltd. Bhilwara  
 3.Under guidance --> Shyam Sunder Boss.  
-4.Date Created --> Fri, 25 June 2018.  
+4.Date Created -->    1 June 2018.  
 
 ## Requirements
 
@@ -39,42 +39,42 @@
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(welcome).png)
 
-#### !!  To see all task click on inbox butoon,you will get--  
+#### !!  To see all task click on inbox button,after that user will get &nbsp;&nbsp; :point_down: 
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(inbox).png)
 
  
-#### !!  TO add a new task click on Add TO-Do Task,a window will open  
+#### !!  TO add a new task click on Add TO-Do Task,user will get &nbsp;&nbsp;   :point_down:  
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(create).png)
 
-#### !!  To manage tasks or sort tasks according to date and title and clear all the tasks,click on manage tasks button..  
+#### !!  To manage tasks or sort tasks according to date and title and clear all the tasks,click on manage tasks button.. :point_down:  
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(manage).png)
 
-#### !!  By clicking on category button user can see tasks in categorized format  
+#### !!  By clicking on category button user can see tasks in categorized format &nbsp;&nbsp; :point_down: 
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(category).png) 
 
-#### !!  To search for a task type in search box  
+#### !!  To search for a task type in search box &nbsp;&nbsp; :point_down: 
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(search).png)
-##### ----  after searching result will be(if exists)  
+##### ----  after searching result will be(if exists) &nbsp;&nbsp; :point_down:  
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(sresult).png)
 
-#### !!  To delete a task click on delete button,after deletion user will get a message   
+#### !!  To delete a task click on delete button,after deletion user will get a message &nbsp;&nbsp; :point_down:  
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(delete).png)
 
-#### !!  To see all tasks in grid format click ongrid icon at top right corner,,user will get  
+#### !!  To see all tasks in grid format click ongrid icon at top right corner,,user will get &nbsp;&nbsp;  :point_down: 
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(grid).png)
 
-#### !!  To see complete description about any task just hover on any task,like  
+#### !!  To see complete description about any task just hover on any task,like  &nbsp;&nbsp; :point_down:
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(hover).png)
-###### ----  after clicking on this task ,user will get  
+###### ----  after clicking on this task ,user will get &nbsp;&nbsp;  :point_down:
 
 ![todo](https://github.com/Nehasoni988/Web-Apps/blob/master/TodoList_using_Laravel/screenshot(detail).png)  
 
-Thank You :)
+## Thank You :)
