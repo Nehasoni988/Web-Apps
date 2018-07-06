@@ -1,0 +1,643 @@
+#navbar
+{
+    background-color: #454444;
+    width:1290px;
+    height:90px;
+    border:3px solid transparent;
+    border-top-color: #00BFFF;
+    left: 4px;
+    
+}
+#navbar1
+{
+    background-color:white;
+    border:3px solid transparent;
+    border-top-color: #00BFFF;
+    width:1290px;
+    height:90px;
+}
+#web
+{
+    position: relative;
+    left:410px;
+    top: 50px;
+    height: 350px;
+}
+.web
+{
+    position: relative;
+    right: 400px;
+}
+.first
+{
+    position: relative;
+    margin-top: 10px;
+    width:300px;
+    display: inline-block;
+    height: 80px;
+    background-color:#454444  ;
+}
+.second
+{
+    position: relative;
+    margin-top: 10px;
+    width:590px;
+    display: inline-block;
+    height: 80px;
+    background-color:#454444  ;
+}
+.third
+{
+    width: 160px;
+    text-align:right;
+}
+.fourth
+{
+    text-align:center;
+    width:160px;
+}
+.fifth
+{
+  width:50px;
+  text-align: right;  
+}
+.sixth
+{
+    width:50px;
+    text-align: left;
+    padding-left: 5px;
+}
+.lg
+{
+    border:1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+#circle
+{
+    color:white;
+    font-size: 25px;
+}
+#circle:hover
+{
+    cursor: pointer;
+    color: rgb(0,0,0,0.5);
+}
+#link
+{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+#link:hover
+{
+    font-weight: bold;
+  color: white;
+}
+.first-child
+{
+    text-align: center;
+    padding-top:20px;
+    color:white;
+    font-weight: bolder;
+    font-style: inherit;
+    letter-spacing: 7px;
+}
+.second-sub
+{
+    position: relative;
+    top: 6px;
+    left: 20px;
+    width: 550px;
+    height: 60px;
+    background-color: white;
+    border:1px solid transparent;
+    border-radius: 5px;
+}
+ #input
+{
+    width:300px;
+    height:40px;
+    top:10px;
+    left: 70px;
+    border-color:transparent;
+    text-align: center;
+}
+#input,#button,#search-image
+{
+    display: inline-block;
+    position: absolute;
+
+}
+#button
+{
+    color: white;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;  
+  height: 40px;
+  border:1px solid #00BFFF;
+  border-radius: 5px;
+  background-color:#00BFFF;
+  top:10px;
+  right: 5px;
+}
+
+#button:hover
+{
+  background-color:#2d6d7a;
+  border:1px solid #2d6d7a;
+  color: white;
+  box-shadow: 0px 2px 5px #4c4c4c;
+}
+#search-image
+{
+    width: 30px;
+    height: 30px;
+    top: 19px;
+    left: 28px;
+    font-size: 20px;
+    color: gray;
+}
+#input:focus
+{
+    outline: none;
+    color:black;
+}
+#image1
+{
+    width:60px;
+    height:60px;
+}
+#l
+{
+    height: 40px;;
+}
+#menu
+{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+    width:40px;
+    height: 40px;
+}
+#menu1
+{
+    position: absolute;
+    top: 21px;
+    width:40px;
+    height: 40px;
+    left:20px;
+    font-size:25px;
+}
+#menu2
+{
+    position: absolute;
+    top: 10px;
+    left: 80px;
+    width: 50px;
+    height: 50px;;
+}
+.form-control
+{
+    margin-left: 30px;
+    width: 450px;
+    height: 50px;
+}
+.class1
+{
+    width:1100px;
+    position: relative;
+    /*top: 100px;
+    left: 200px;*/
+    border:1px solid lightgray ;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom:10px;
+}
+#todo
+{
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    right:0px;
+}
+#error
+{
+    width: 800px;
+    margin-top:10px; 
+}
+#edit
+{
+    display: inline-block;
+    position: absolute;
+    text-decoration: none;
+    text-align:center;
+    padding-top: 4px;
+    letter-spacing: 2px;
+    top: 10px;
+    right: 10px;
+    width: 70px;
+    height: 30px;
+    background-color: white;
+    border: 1px solid darkgray;
+    color: grey;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size:15px;
+    cursor:pointer;
+}
+#edit span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  #edit span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    transition: 0.2s;
+  }
+  
+  #edit:hover span {
+    padding-right: 20px;
+  }
+  
+  #edit:hover span:after {
+    opacity: 1;
+    right: 5px;
+  }
+  #edit:hover
+{
+  background-color:#00BFFF;
+  color:white; 
+  border-color: #00BFFF;
+  box-shadow: 0px 2px 5px #4c4c4c;
+}
+  
+#delete
+{
+    position: absolute;
+    top: 10px;
+    right: 100px;
+    width: 120px;
+    height: 30px;
+    color: grey;
+    font-size: 15px;
+    font-weight: bold;
+    cursor:pointer;
+    border:1px solid darkgray;
+    background-color: white;
+    letter-spacing: 3px;
+    border-radius: 4px;
+}
+
+#delete:hover
+{
+    background-color: tomato;
+    color: white;
+    border-color: tomato;
+    box-shadow: 2px 2px 5px #4c4c4c;
+}
+
+#btn
+{
+    position: relative;
+    background-color:white;
+    width: 300px;
+    height: 70px;
+    border:1px solid lightgray;
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 1px;
+    word-spacing:2px;
+    border-radius: 0px;
+}
+#book
+{
+    position: absolute;
+    top: 4px;
+    left: 2px;
+}
+.text
+{
+    padding-top: 10px;
+    width: 500px;
+    text-align: left;
+    padding-left: 40px;
+    text-transform: capitalize; 
+}
+#anchor
+{ 
+    text-shadow:0px 1px 2px rgba(68,68,68,0.5);
+    color:#000;
+}
+#anchor:hover{
+    font-weight: bold;
+    text-decoration: none;
+}
+#btn:hover
+{
+  background-color: #00BFFF;
+  color: white;
+  border:1px solid #00BFFF;
+  
+}
+#btn:active
+{
+    background-color:red;
+}
+.buttons
+{
+    position: relative;
+    left: 35px;;
+}
+.todoForm
+{
+    width: 500px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+.submit
+{
+    font-size:20px;
+    font-weight: bold; 
+    width: 120px;
+    /*background-color: #00BFFF;*/
+    border: 1px solid lightgray;
+    color: darkgray;
+}
+.submit:hover{
+    background-color: #00BFFF;
+    color: black;
+}
+#create
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: #4c4c4c;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px; 
+    border:1px solid #00BFFF;
+    border-radius: 4px;  
+    /*color: #00BFFF;*/
+    background-color: #00BFFF;
+}
+.label
+{
+    color: #7f7f7f;
+    font-weight: bold;
+    padding-left: 30px;
+    font-size: 20px;
+}
+#show1
+{
+    border:1px solid grey;
+    border-radius: 5px;
+    width: 1200px;
+    height: auto;
+    margin-left:47px;
+    margin-top:10px;
+    max-height: 450px;
+    overflow:scroll;
+}
+b
+{
+    color: #00BFFF;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+#not
+{
+    padding-top:10px;
+    text-align:center;
+}
+#home
+{
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    width:50px;
+    height:50px;
+}
+#home:hover
+{
+  border:2px solid transparent; 
+   box-shadow: 0 0 10px #333; 
+    -webkit-box-shadow: 0 0 10px #333;
+      -moz-box-shadow: 0 0 10px #333; 
+       -o-box-shadow: 0 0 10px #333; 
+        -ms-box-shadow: 0 0 10px #333;
+}
+#drop
+{  
+    color:#4c4c4c;
+    border:1px solid transparent;
+    border-radius: 3px;
+    width: 170px;
+    height: 35px;
+    /*display: inline-block;*/
+}
+#drop:hover .slide
+{
+    color: black;
+    font-weight: bold; 
+    left:47px;   
+}
+#drop:hover .red
+{ 
+    left:27px;
+}
+#drop:hover .pink
+{ 
+    left:27px;
+}
+#drop:hover .yellow
+{ 
+    left:27px;
+}
+#drop:hover .green
+{ 
+    left:27px;
+}
+
+#drop:hover
+{
+    background-color:lavender;
+    color: black;
+    font-weight: bold; 
+}
+.red,.pink,.yellow,.green
+{
+    margin-left: 0px;
+    font-size: 25px;
+    position: absolute;
+    left: 10px;
+    transition-property:left;
+    transition-duration: 1s;
+    font-weight: bold;
+}
+.red
+{
+    color: red;   
+}
+.pink
+{
+    color: pink;
+}
+.yellow
+{
+    color: yellow;
+}
+.green
+{
+  color:green;
+}
+.slide
+{
+    color:#4c4c4c;
+    position: absolute;
+    left:30px;
+    transition-property:left;
+    transition-duration: 1s;
+}
+#himage
+{
+    position: relative;
+    left: 200px;
+    width:700px;
+    height:400px;
+    border: 3px solid #00BFFF;
+}
+.h5
+{
+    color: #00BFFF;
+    text-shadow: 0px 0px 5px;
+    padding-left: 10px;
+}
+.h1
+{
+    background-color: #00BFFF;
+    text-align: center;
+    padding: 2px;
+    border: 1px solid grey;
+    border-radius: 4px;
+    color: #333;
+    text-shadow: 0px 0px 5px #fff;
+    font-weight:bold;
+}
+.h3
+{
+    padding-top: 10px;
+    color: #7f7f7f;
+    text-align: center;
+    text-shadow: 0px 0px 1px black;
+}
+.gclass1
+{
+    display: inline-block;
+    border:1px solid #7f7f7f;
+    border-radius: 5px;
+    width: 200px;
+    height: 80px;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;;
+    margin-left:25px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.3);
+}
+.gtext{
+    position: relative;
+    width:160px;
+    text-align: center;
+    display:inline-block;
+    top: -10px;
+    left: 5px;
+    text-transform: capitalize;  
+}
+#ganchor
+{
+    text-shadow:0px 1px 2px rgba(68,68,68,0.5);
+    color:#000;
+}
+#ganchor:hover
+{
+  text-decoration: none;
+  font-weight: bold;
+}
+.gridicon
+{
+    display:inline-block;
+    width:33px;
+    position: relative;
+    height: 100%;
+    right: 0;
+    background: rgba(230,230,250,0.5);
+    border-left:1px solid lavender; 
+}
+.gridicon:hover{
+    background:rgba(230,230,250,1); 
+}
+.gridicon div{
+    font-size: 18px;
+    position: relative;
+    top: 0px;
+    right: 0px;
+    padding-left: 6px;
+    margin-top:5px; 
+   text-align: center;
+}
+#gdelete,#gedit{
+    font-size: 20px;
+}
+#gdelete:hover,#gedit:hover
+{
+ cursor: pointer;
+}
+.grid
+{
+    width: 1200px;
+    max-height: 500px;
+    overflow: scroll;
+    margin-left: 47px;
+    margin-top: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+#gcreate
+{
+    text-align: center;
+    font-weight: bold;
+    color: #4c4c4c;
+    font-size: 20px;
+    background-color: #00BFFF;
+    padding:10px 10px;
+    border:1px solid #00BFFF;
+    border-radius: 5px;
+    letter-spacing: 2px;
+}
+#gbutton
+{
+    position: relative;
+    left: -5px;
+    border:1px solid transparent;
+    background:rgba(230,230,250,0.5); 
+}
+#showdate
+{
+    margin-left :15px;
+    font-style: italic;
+    color:rgb(185, 181, 181);
+}
