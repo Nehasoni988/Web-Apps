@@ -25,15 +25,15 @@
  
  ## How to Use:-  
  
- 1. Firstly, create a Database named "todo" in PHP database(as shown in screenshot).  
+ 1. Firstly, create a Database named "TodoLaravel" in PHP database.  
 		* HOSTNAME:-"localhost"    
 		* USERNAME:-"root"     
-	  * PASSWORD:-"root"    
+	        * PASSWORD:-"root"    
 		* DATABASE:-"TodoLaravel"   
 2. Select the newly created database and create a table in it named "tasks".
 3. Download all the files, assets & save them in localhost folder.
 4.Open the terminal and change directory to this localhost folder and type command "php artisan serve"(this command will give you port no. for connection). 
-5. Reach browser and type in URL "localhost:port_no./welcome".
+5. Reach browser and type in URL "localhost:port_no.(given by above command)/welcome".
 6. Now user can perform some operations like update,delete,create and serach on his desire task.  
 7. Now application is ready to use.Here is the demo, how application looks like -->  
 
