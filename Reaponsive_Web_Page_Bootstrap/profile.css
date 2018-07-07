@@ -1,0 +1,75 @@
+
+#div1
+{
+	 background:linear-gradient(#4682B4,#87CEEB	);
+
+}
+#img1
+{
+}
+#first
+{
+	margin-top: 100px;
+}
+#second
+{
+	
+}
+.jumbotron
+{
+	background-image: url("back.jpg");
+    background-repeat: no-repeat;
+	color: #e5e5e5 ;
+	text-align: center;
+	box-shadow: 0 8px 10px rgb(0,0,0,1);
+}
+.jumbotron h1
+{
+	color: white;
+    letter-spacing: 5px;
+	font-size: 20px;
+
+}
+#ab
+{
+	font-size: 30px;
+	color: #fff;
+	text-shadow: 0 8px 20px #fff; 
+}
+#pera
+{
+	font-size:30px; 
+}
+#red
+{
+	font-size: 70px;
+	color:  red;
+	text-shadow:  1px 1px 10px red;
+}
+#blue
+{
+	font-size: 40px;
+	color: blue;
+}
+#yellow
+{
+	font-size: 60px;
+	color: yellow;
+}
+#orange
+{
+	font-size: 70px;
+	color: orange;
+	text-shadow:  1px 1px 10px orange;
+}
+a
+{
+	text-decoration: none;
+	font-color:white;
+	
+}
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
