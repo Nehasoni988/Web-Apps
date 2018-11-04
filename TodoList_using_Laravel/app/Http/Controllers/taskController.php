@@ -65,7 +65,7 @@ class taskController extends Controller
         $top = 'Search-Result';
         $title = Input::get('search');
         $task = DB::table('tasks')->where('title','like','%' .$title. '%')->get();
-        return view('todoTask.homepage',compact('task','message','top'));
+        return view('todoTask.homepage',compact('task','message','top','title'));
     }
     public function new()
     {

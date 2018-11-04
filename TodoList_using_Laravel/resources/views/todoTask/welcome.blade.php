@@ -6,4 +6,5 @@
 
 <img src="/web.png"/ id="web" class="web">
 
+
 @endsection

@@ -28,6 +28,11 @@ $(document).ready(function()
     $('#web').addClass('web');
  
     $('div.alert').not('.alert-important').delay(2000).slideUp(300);
+
+    $("#datepicker").click(function(){
+
+          datpicker();
+    });
   
 })  
 function del()

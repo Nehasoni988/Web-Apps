@@ -21,7 +21,8 @@
                   </div>
             @endforeach      
       @else
-            <div class="class1"><p id="not"><b> {{ $message }} </b></p></div>
+            <div class="class1">efsefs<p id="not"><b> {{ $message }} </b></p></div>
+            <!-- <span>create an article<a href="#">{{ $title }}</a></span> -->
       @endif
 </div>
 @endsection
